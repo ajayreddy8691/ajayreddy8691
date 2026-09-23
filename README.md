@@ -1,211 +1,306 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FF007F,100:00FF66&height=200&section=header&text=AJAY%20KUMAR%20REDDY%20Y&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20Developer&descSize=20&descAlignY=60&animation=twinkling" width="100%" alt="header wave" />
+<!-- ========================= -->
+
+<!--        HEADER              -->
+
+<!-- ========================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FF007F,100:00FF66&height=220&section=header&text=AJAY%20KUMAR%20REDDY%20Y&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Data%20Analyst%20%7C%20Python%20Developer&descAlignY=58&descSize=20" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+AJAY+KUMAR+REDDY+Y;Data+Analyst+%26+Python+Developer;I+turn+messy+data+into+clear+decisions" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=700&color=FF007F&center=true&vCenter=true&width=900&lines=EDA+%7C+Econometric+Modeling+%7C+Biometric+Analytics;Quantitative+Backtesting+%7C+Interactive+Visualizations" />
+</p>
 
 <p align="center">
   <a href="https://github.com/ajayreddy8691">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=800&height=50&lines=Hi+%F0%9F%91%8B+I'm+AJAY+KUMAR+REDDY+Y;Data+Analyst+%26+Python+Developer;I+turn+messy+data+into+clear+decisions" alt="Typing SVG" />
+    <img src="https://img.shields.io/github/followers/ajayreddy8691?label=Followers&style=for-the-badge&color=00F0FF&labelColor=111111"/>
   </a>
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=800&color=FF007F&center=true&vCenter=true&width=800&height=40&lines=EDA+%7C+Econometric+Modeling+%7C+Biometric+Analytics;Quantitative+Backtesting+%7C+Interactive+Visualizations" alt="Disciplines" />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=800&color=00FF66&center=true&vCenter=true&width=800&height=40&lines=import+pandas+as+pd;df.describe()+%E2%86%92+insight;model.fit()+%E2%86%92+evidence;fig.show()+%E2%86%92+story" alt="Code typing" />
+  <a href="https://github.com/ajayreddy8691?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ajayreddy8691?label=Stars&style=for-the-badge&color=FF007F&labelColor=111111"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ajayreddy8691/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00F0FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ajayreddy8691&style=for-the-badge&color=00FF66&label=PROFILE+VIEWS"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ajayreddy8691?tab=followers"><img src="https://img.shields.io/github/followers/ajayreddy8691?style=for-the-badge&logo=github&logoColor=white&color=00F0FF&labelColor=0D1117" alt="Followers" /></a>
-  <a href="https://github.com/ajayreddy8691?tab=stars"><img src="https://img.shields.io/badge/GITHUB-STARS-FF007F?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Stars" /></a>
-  <a href="https://www.linkedin.com/in/ajayreddy8691"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00FF66?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ajayreddy8691&label=PROFILE+VIEWS&style=for-the-badge&color=00F0FF&labelColor=0D1117" alt="Profile Views" />
-</p>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FF007F,100:00FF66&height=90&section=header" width="100%" alt="wave separator" />
+## 🧠 About Me
 
-## 🖥️ Terminal Boot
+I'm **Ajay Kumar Reddy Y**, a **Data Analyst & Python Developer** focused on transforming raw data into meaningful insights, statistical evidence, and interactive visual stories.
+
+My work combines:
+
+* 📊 Exploratory Data Analysis
+* 📐 Econometric Modeling
+* 🧬 Biometric Analytics
+* 🌍 Geopolitical Data Analysis
+* 📈 Quantitative Backtesting
+* 📉 Interactive Data Visualization
 
 ```text
-┌──[ ajay@data-lab ]──[ ~/profile ]
-└─$ cat about.txt
-
-   NAME        : AJAY REDDY
-   HANDLE      : @ajayreddy8691
-   ROLE        : Data Analyst & Python Developer
-   LOCATION    : India 📍
-   STATUS      : ● ONLINE - open to collaboration & opportunities
-   PROJECTS    : 5 featured end-to-end analyses
-   TOOLKIT     : Python, SQL, Pandas, Statsmodels, Plotly, Tableau
-
-┌──[ ajay@data-lab ]──[ ~/profile ]
-└─$ ls research_topics/
-
-   healthcare_epidemiology/      geospatial choropleths, pandemic trends
-   real_estate_valuation/        OLS hedonic pricing models
-   geopolitical_security/        global incident pattern analytics
-   wearable_biometrics/          workout vitals, linear mixed models
-   fx_quant_backtesting/         strategy engine, risk & return metrics
-
-┌──[ ajay@data-lab ]──[ ~/profile ]
-└─$ echo "Curiosity is my primary key." _
+RAW DATA
+   ↓
+CLEANING & VALIDATION
+   ↓
+EXPLORATORY ANALYSIS
+   ↓
+STATISTICAL MODELING
+   ↓
+VISUALIZATION
+   ↓
+INSIGHT
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FF007F,100:00FF66&height=90&section=header" width="100%" alt="wave separator" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=800&color=00FF66&center=true&vCenter=true&width=700&lines=Curiosity+drives+the+analysis.;Evidence+drives+the+decision.;Data+tells+the+story." />
+</p>
 
-## 🧭 Architecture Matrix
+---
+
+## ⚙️ Technical Ecosystem
+
+### 🐍 Programming & Data
+
+<p>
+  <img src="https://img.shields.io/badge/Python-00F0FF?style=for-the-badge&logo=python&logoColor=111111"/>
+  <img src="https://img.shields.io/badge/SQL-FF007F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00FF66?style=for-the-badge&logo=cplusplus&logoColor=111111"/>
+  <img src="https://img.shields.io/badge/Jupyter-00F0FF?style=for-the-badge&logo=jupyter&logoColor=111111"/>
+</p>
+
+### 📊 Analysis & Modeling
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-00F0FF?style=for-the-badge&logo=pandas&logoColor=111111"/>
+  <img src="https://img.shields.io/badge/NumPy-FF007F?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statsmodels-00FF66?style=for-the-badge&logo=python&logoColor=111111"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-00F0FF?style=for-the-badge&logo=scikitlearn&logoColor=111111"/>
+</p>
+
+### 📈 Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-00F0FF?style=for-the-badge&logo=python&logoColor=111111"/>
+  <img src="https://img.shields.io/badge/Seaborn-FF007F?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-00FF66?style=for-the-badge&logo=plotly&logoColor=111111"/>
+  <img src="https://img.shields.io/badge/Tableau-00F0FF?style=for-the-badge&logo=tableau&logoColor=111111"/>
+</p>
+
+### 🛠️ Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-FF007F?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-00F0FF?style=for-the-badge&logo=github&logoColor=111111"/>
+  <img src="https://img.shields.io/badge/VS%20Code-00FF66?style=for-the-badge&logo=visualstudiocode&logoColor=111111"/>
+</p>
+
+---
+
+## 🔬 Analytical Workflow
+
+<table>
+<tr>
+<td align="center" width="16%">
+
+### 01
+
+🗂️
+**DATA**
+
+Raw datasets
+
+</td>
+<td align="center" width="16%">
+
+### 02
+
+🧹
+**CLEAN**
+
+Validation
+
+</td>
+<td align="center" width="16%">
+
+### 03
+
+🔎
+**EXPLORE**
+
+EDA
+
+</td>
+<td align="center" width="16%">
+
+### 04
+
+📐
+**MODEL**
+
+Statistics
+
+</td>
+<td align="center" width="16%">
+
+### 05
+
+📊
+**VISUALIZE**
+
+Patterns
+
+</td>
+<td align="center" width="16%">
+
+### 06
+
+💡
+**INSIGHT**
+
+Decisions
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Analytics
+
+### 🦠 COVID-19 Pandemic Analysis
+
+**Domain:** Healthcare
+**Focus:** Interactive Data Visualization
+
+Country-level pandemic trends explored through interactive visual analysis and choropleth mapping.
+
+---
+
+### 🏠 Cracow Real Estate Pricing
+
+**Domain:** Real Estate
+**Focus:** Econometric Modeling
+
+Hedonic OLS models examining relationships between property characteristics and real-estate pricing.
+
+---
+
+### 🌍 Global Terrorism EDA
+
+**Domain:** Geopolitics
+**Focus:** Exploratory Data Analysis
+
+Spatial and temporal analysis of global terrorism data to identify patterns across geography and time.
+
+---
+
+### 🏃 Polar Watch Fitness Analysis
+
+**Domain:** IoT / Biometrics
+**Focus:** Statistical Modeling
+
+Analysis of workout vitals using linear mixed models to examine biometric patterns.
+
+---
+
+### 💱 FX Trading Analysis
+
+**Domain:** FinTech / Quantitative Finance
+**Focus:** Strategy Backtesting
+
+Foreign-exchange strategy analysis with backtesting and risk/performance evaluation.
+
+---
+
+## 🧩 How I Structure Analytical Projects
 
 ```text
-ajayreddy8691/
+project/
 │
-├── 🩺 HEALTHCARE ANALYTICS
-│   └── Covid19_pandamic_analysis
-│       └── EDA ──► time-series trends ──► Plotly choropleths
-│
-├── 🏠 ECONOMETRICS
-│   └── cracow_real_estate_pricing
-│       └── Cleaning ──► feature engineering ──► OLS hedonic model
-│
-├── 🌍 GEOPOLITICAL ANALYTICS
-│   └── global_terrorism_eda
-│       └── Incident data ──► spatial/temporal EDA ──► risk patterns
-│
-├── ⌚ BIOMETRIC / IoT ANALYTICS
-│   └── polar-watch-fitness-analysis
-│       └── Wearable vitals ──► repeated measures ──► linear mixed models
-│
-└── 💹 QUANTITATIVE FINANCE
-    └── fx_trading_analysis
-        └── Price data ──► signal logic ──► backtest ──► performance metrics
-```
-
-```mermaid
-flowchart LR
-    A[Raw Data] --> B[Cleaning & Validation]
-    B --> C[Exploratory Analysis]
-    C --> D[Statistical Modeling]
-    D --> E[Interactive Visuals]
-    E --> F[Decisions & Insight]
-    style A fill:#0D1117,stroke:#00F0FF,color:#fff
-    style B fill:#0D1117,stroke:#00F0FF,color:#fff
-    style C fill:#0D1117,stroke:#FF007F,color:#fff
-    style D fill:#0D1117,stroke:#FF007F,color:#fff
-    style E fill:#0D1117,stroke:#00FF66,color:#fff
-    style F fill:#0D1117,stroke:#00FF66,color:#fff
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FF007F,100:00FF66&height=90&section=header" width="100%" alt="wave separator" />
-
-## 🧰 Technical Ecosystem
-
-<h3 align="center">Languages & Core Analytics</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-</p>
-
-<h3 align="center">Statistics & Modeling</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Statsmodels-4051B5?style=for-the-badge&logo=python&logoColor=white" alt="Statsmodels" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-</p>
-
-<h3 align="center">Data Visualization</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-4C9BB5?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-</p>
-
-<h3 align="center">Workflow & Infrastructure</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FF007F,100:00FF66&height=90&section=header" width="100%" alt="wave separator" />
-
-## 🚀 Featured Portfolio
-
-| # | Project | Domain | Analytical Takeaway |
-|:-:|:--------|:-------|:--------------------|
-| 1 | [**Covid19_pandamic_analysis**](https://github.com/ajayreddy8691/Covid19_pandamic_analysis) | `Healthcare` `Plotly` | Country-level pandemic trends explored through interactive choropleth maps |
-| 2 | [**cracow_real_estate_pricing**](https://github.com/ajayreddy8691/cracow_real_estate_pricing) | `Real Estate` `Econometrics` | Hedonic OLS models that isolate how property features drive price |
-| 3 | [**global_terrorism_eda**](https://github.com/ajayreddy8691/global_terrorism_eda) | `Geopolitics` `EDA` | Spatial and temporal patterns in global security incidents |
-| 4 | [**polar-watch-fitness-analysis**](https://github.com/ajayreddy8691/polar-watch-fitness-analysis) | `IoT` `Biometrics` | Workout vitals modeled with linear mixed models to handle repeated measures |
-| 5 | [**fx_trading_analysis**](https://github.com/ajayreddy8691/fx_trading_analysis) | `FinTech` `Quant` | FX strategy backtesting engine focused on performance and risk evaluation |
-
-<details>
-<summary><b>📂 Reference project layout (click to expand)</b></summary>
-
-<br/>
-
-```text
-project-root/
 ├── data/
-│   ├── raw/                 # untouched source files
-│   └── processed/           # cleaned, analysis-ready datasets
+│   ├── raw/
+│   └── processed/
+│
 ├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_exploratory_analysis.ipynb
-│   ├── 03_modeling.ipynb
-│   └── 04_visualization.ipynb
+│   ├── cleaning/
+│   ├── EDA/
+│   ├── modeling/
+│   └── visualization/
+│
 ├── src/
-│   ├── preprocessing.py     # reusable cleaning helpers
-│   ├── models.py            # statistical / backtest logic
-│   └── plots.py             # shared chart styles
+│   ├── preprocessing.py
+│   ├── models.py
+│   └── plots.py
+│
 ├── reports/
-│   └── figures/             # exported charts and maps
+│   └── figures/
+│
 ├── requirements.txt
 └── README.md
 ```
 
-</details>
+The goal is to keep analysis reproducible, organized, and easy to follow from raw data through final insight.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FF007F,100:00FF66&height=90&section=header" width="100%" alt="wave separator" />
+---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ajayreddy8691&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayreddy8691&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajayreddy8691&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F0FF&icon_color=FF007F&text_color=FFFFFF" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayreddy8691&layout=compact&hide_border=true&bg_color=00000000&title_color=00F0FF&text_color=FFFFFF" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ajayreddy8691&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ajayreddy8691&hide_border=true&background=00000000&ring=00F0FF&fire=FF007F&currStreakLabel=00FF66&sideLabels=00F0FF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" width="70%"/>
 </p>
+
+---
+
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajayreddy8691&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7&margin-w=12" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ajayreddy8691&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="95%"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FF007F,100:00FF66&height=90&section=header" width="100%" alt="wave separator" />
+---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajayreddy8691/ajayreddy8691/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajayreddy8691/ajayreddy8691/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ajayreddy8691/ajayreddy8691/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/ajayreddy8691/ajayreddy8691/output/github-snake-dark.svg" width="95%"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FF007F,100:00FF66&height=90&section=header" width="100%" alt="wave separator" />
+---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:ajayreddy8691@gmail.com"><img src="https://img.shields.io/badge/EMAIL-00F0FF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0D1117" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/ajayreddy8691"><img src="https://img.shields.io/badge/LINKEDIN-FF007F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
-  <a href="https://github.com/ajayreddy8691"><img src="https://img.shields.io/badge/GITHUB-00FF66?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" alt="GitHub" /></a>
+
+<a href="mailto:ajayreddy8691@gmail.com">
+<img src="https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=111111"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ajayreddy8691/">
+<img src="https://img.shields.io/badge/LinkedIn-FF007F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ajayreddy8691">
+<img src="https://img.shields.io/badge/GitHub-00FF66?style=for-the-badge&logo=github&logoColor=111111"/>
+</a>
+
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=35&lines=Open+to+data+collaborations;Let's+find+the+signal+in+the+noise" alt="Closing typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&width=750&lines=Explore+the+data.;Question+the+pattern.;Build+the+evidence.;Tell+the+story." />
 </p>
 
-<p align="center"><b>📈 Data tells the story. I make sure it's heard. 📈</b></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FF007F,100:00FF66&height=140&section=footer&animation=twinkling" width="100%" alt="footer wave" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FF007F,100:00FF66&height=120&section=footer&animation=twinkling" width="100%"/>
+</p>
